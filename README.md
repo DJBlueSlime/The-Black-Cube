@@ -11,5 +11,4 @@ My Favorite Color is Light Blue #00e5ff
 
 # Dev Board
 [Trello Dev Board](https://trello.com/b/CxcA2e4f) 
-
-![j](https://a.trellocdn.com/prgb/dist/images/header-logo-2x.01ef898811a879595cea.png)
+![j](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png)

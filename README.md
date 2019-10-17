@@ -1,4 +1,5 @@
 # The Black Cube
+[![Build Status](https://travis-ci.org/Josh012422/The-Black-Cube.svg?branch=master)](https://travis-ci.org/Josh012422/The-Black-Cube)
 
 [DOWNLOAD ONLY FOR PERSONAL USE]
 

@@ -1,4 +1,5 @@
 # The Black Cube
+[![Build Status](https://travis-ci.org/Josh012422/The-Black-Cube.svg?branch=master)](https://travis-ci.org/Josh012422/The-Black-Cube)
 
 [DOWNLOAD ONLY FOR PERSONAL USE]
 
@@ -11,5 +12,4 @@ My Favorite Color is Light Blue #00e5ff
 
 # Dev Board
 [Trello Dev Board](https://trello.com/b/CxcA2e4f) 
-
-![j](https://a.trellocdn.com/prgb/dist/images/header-logo-2x.01ef898811a879595cea.png)
+[![Image Not Found](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png)](https://trello.com/b/CxcA2e4f)
